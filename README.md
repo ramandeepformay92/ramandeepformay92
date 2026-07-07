@@ -1,59 +1,43 @@
 Hi, I'm Raman 👋
 
-Senior QA Engineer (8+ yrs) → transitioning into DevOps / Platform Engineering / SRE
+**Senior QA Engineer (8+ yrs) → transitioning into DevOps / Platform Engineering / SRE**
 
-I spent 8 years building test automation frameworks, CI/CD quality gates, and performance testing pipelines across streaming media, hospitality, telecom, and contact center platforms. Now I'm applying that same "make it reliable, make it repeatable, make it observable" mindset to infrastructure itself.
+- I spent 8 years building test automation frameworks, CI/CD quality gates, and performance testing pipelines across streaming media, hospitality, telecom, and contact center platforms
+- Now I'm applying that same "make it reliable, make it repeatable, make it observable" mindset to infrastructure itself
+- 📍 Based in Calgary, AB, Canada — open to remote roles across Canada and globally
 
-📍 Based in Calgary, AB, Canada — open to remote roles across Canada and globally
-
-🔧 What I'm doing right now
+## 🔧 What I'm doing right now
 
 I'm actively building hands-on projects and deepening my skills in:
 
-Containers & Orchestration: Docker, Kubernetes
-Infrastructure as Code: Terraform
-GitOps & CD: ArgoCD, GitOps workflows
-Cloud: AWS (primary), Azure (working knowledge)
-Observability: Prometheus, Grafana
-Automation: Python, Bash
-Exploring: applying agentic AI to infra monitoring & remediation
+- **Containers & Orchestration:** Docker, Kubernetes
+- **Infrastructure as Code:** Terraform
+- **GitOps & CD:** ArgoCD, GitOps workflows
+- **Cloud:** AWS (primary), Azure (working knowledge)
+- **Observability:** Prometheus, Grafana
+- **Automation:** Python, Bash
+- **Exploring:** applying agentic AI to infra monitoring & remediation
 
-🎯 Why QA → DevOps/SRE
+## 🎯 Why QA → DevOps/SRE
 
 QA engineering is reliability engineering, just applied earlier in the pipeline. Eight years of building test automation frameworks, maintaining Jenkins pipelines, and running performance tests under load taught me to think in terms of:
 
-
-Repeatable, automated processes over manual steps
-Catching failure before it reaches production
-Metrics, thresholds, and what "healthy" actually looks like
-
+- Repeatable, automated processes over manual steps
+- Catching failure before it reaches production
+- Metrics, thresholds, and what "healthy" actually looks like
 
 I'm now extending that same thinking into owning the infrastructure and pipelines directly, not just gating them.
 
-🧰 Background & Tooling
+## 🧰 Background & Tooling
 
-Testing/Automation: Selenium, Appium, Cypress, Playwright, Postman, JMeter, LoadRunner
-CI/CD & Tools: Jenkins, Jira, HP ALM, Zephyr
-Languages: Python, JavaScript, Java, C#
-Currently learning: Terraform, Kubernetes (advanced), AWS, ArgoCD, Prometheus/Grafana
+- **Testing/Automation:** Selenium, Appium, Cypress, Playwright, Postman, JMeter, LoadRunner
+- **CI/CD & Tools:** Jenkins, Jira, HP ALM, Zephyr
+- **Languages:** Python, JavaScript, Java, C#
+- **Currently learning:** Terraform, Kubernetes (advanced), AWS, ArgoCD, Prometheus/Grafana
 
-📫 Let's connect
+## 📫 Let's connect
 
 Open to Platform Engineer / DevOps Engineer / SRE roles — remote-first, Canada and worldwide.
 
-LinkedIn · Email
+[LinkedIn](https://ca.linkedin.com/in/ramandeep-formay-a60747b5) · [Email](mailto:formayramandeep@gmail.com)
 
-<!--
-**ramandeepformay92/ramandeepformay92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
